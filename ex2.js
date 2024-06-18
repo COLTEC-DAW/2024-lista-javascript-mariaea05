@@ -1,5 +1,4 @@
-var n = 5;
-// prompt("Digite o número de linhas do tabuleiro");
+var n = prompt("Digite o número de linhas do tabuleiro");
 let tabuleiro = '';
 
 
