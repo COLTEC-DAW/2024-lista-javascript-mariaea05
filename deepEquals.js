@@ -15,7 +15,7 @@ function deepEquals(obj1, obj2) {
 
     
     if(keys1.length !== keys2.length){
-        return false;
+        return false; push  
     }
 
     for(var key of keys1){
